@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Note Tree",
+    "version": "1.0",
+    "description": "Save your notes in a structured tree format.",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    },
+    "permissions": ["storage"]
+  }
